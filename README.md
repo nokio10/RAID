@@ -12,7 +12,7 @@ git clone https://github.com/nokio10/otus-linux.git
                         :size => 250, # Megabytes
                         :port => 5
                 }
-    ```
+```
 Поднял машину командой 
 ```
 vagrant up
