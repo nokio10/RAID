@@ -13,7 +13,7 @@ git clone https://github.com/nokio10/otus-linux.git
                         :port => 5
                 }
 ```
-Поднял машину командой 
+Поднял машину командой:
 ```
 vagrant up
 ```
